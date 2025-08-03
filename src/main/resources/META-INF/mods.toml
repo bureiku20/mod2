@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="MIT"
+
+[[mods]]
+modId="infinitevisionkeepinventory"
+version="1.0.0"
+displayName="Infinite Vision & Keep Inventory"
+description='''
+Automatically enables keepInventory and grants permanent night vision.
+'''
+
+[[dependencies.infinitevisionkeepinventory]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,)"
+ordering="NONE"
+side="BOTH"
